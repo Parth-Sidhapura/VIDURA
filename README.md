@@ -5,7 +5,7 @@
 
 **Turning the first hour of an investigation into the most productive one.**
 
-*Built by Team **MuleShield AI***
+*Built by Team **UNKNOWN CREATORS***
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 ---
 
-> ⚠️ **Disclaimer:** VIDURA is an academic / hackathon prototype intended to demonstrate an AI-assisted documentation workflow for law enforcement. It is **not** an officially adopted government system and must undergo formal security, legal, and procedural certification before any real-world deployment.
+> ⚠️ **Disclaimer:** VIDURA is an hackathon prototype intended to demonstrate an AI-assisted documentation workflow for law enforcement. It is **not** an officially adopted government system and must undergo formal security, legal, and procedural certification before any real-world deployment.
 
 ---
 
