@@ -139,8 +139,7 @@ flowchart LR
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/MuleShield-AI/VIDURA.git
-cd VIDURA
+git clone https://github.com/ParthSidhapura/VIDURA.git
 ```
 
 ### 2️⃣ Configure Environment Variables
