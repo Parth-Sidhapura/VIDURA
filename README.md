@@ -216,7 +216,7 @@ This project is licensed under the **MIT License** — see [`LICENSE`](./LICENSE
 
 ## 👥 Team
 
-**MuleShield AI** — Final-Year Cybersecurity Capstone Project
+**UNKNOWN CREATORS** —  Cybersecurity Capstone Project
 
 <div align="center">
 
